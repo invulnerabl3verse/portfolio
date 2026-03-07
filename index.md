@@ -108,7 +108,9 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 
 <div style="text-align: center; font-size: 28px;">
 
-  PORTFOLIO
+  Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
+
+<a href="https://example.com" target="_blank">link</a> 
 
 </div>
 
