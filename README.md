@@ -1,2 +1,0 @@
-# portfolio
-projekty elektroniczno-elektryczne
