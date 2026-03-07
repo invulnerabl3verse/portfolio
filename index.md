@@ -80,12 +80,14 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <!-- PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)-->
 
 <details>
-  <summary><b>PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)</b></summary>
+  <summary>PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)</summary>
 <!-- SPACE -->
 <br>
 Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
 
+
 [wiecej informacji tutaj](https://www.example.com)
+
 
 </details>
 <!-- PROJEKT 3: WELLS (Wireless Emergency LED Lighting System) END-->
