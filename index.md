@@ -1,5 +1,5 @@
 
-<!-- NAGLOWEK Z DUZA CZCIONKA -->
+					<!-- NAGLOWEK Z DUZA CZCIONKA -->
 
 <div style="text-align: center; font-size: 28px;">
 
@@ -7,37 +7,35 @@
 
 </div>
 
+						<!-- NAGLOWEK END -->
+
+
+					<!-- KLIKNIJ ABY ROZWINAC -->
 <details>
   <summary><b>_kliknij, aby rozwinąć projekt_:</b></summary>
 
-  Zawiera opis projektu wraz z linkiem do dokumentacji 
+  znajduje sie tu opis projektu wraz z linkiem do dokumentacji 
   
 </details>
 
 
-<details>
-  <summary>PROJEKT 1: Simple Rain</summary>
-  <br>
-  Opis projektu: <a href="https://github.com">KLIKNIJ TUTAJ</a>
-</details>
-
-
-
 ---
 
-<!-- NAGLOWEK END -->
 
-<!-- PRAWA I LEWA INTELIGHT -->
+
+
+
+					<!-- PRAWA I LEWA INTELIGHT -->
 <div style="display: flex; justify-content: space-between;">
   <div>
-<!-- LEWA STR - NAZWA FIRMY A-->
+					<!-- LEWA STR - NAZWA FIRMY A-->
     Intelight Sp.z o .o
 	Stanowisko: Inżynier Elektronik
 	Dział: RnD
 
   </div>
   <div>
-<!--PRAWA --KONIEC -->
+						<!--PRAWA --KONIEC -->
 
 <!--PRAWA -- OD KIEDY DO KIEDY-->
     06.2024 - Obecnie
@@ -87,14 +85,12 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <!-- PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)-->
 
 <details>
-  <summary>PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)</summary>
+  <summary><b>PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)</b></summary>
 <!-- SPACE -->
 <br>
 Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
 
-
 [wiecej informacji tutaj](https://www.example.com)
-
 
 </details>
 <!-- PROJEKT 3: WELLS (Wireless Emergency LED Lighting System) END-->
@@ -367,7 +363,7 @@ Opis
 <!-- PROJEKT 4: Tear -->
 
 <details>
-  <summary><b>PROJEKT 4: Tear</b></summary>
+  <summary>PROJEKT 4: Tear</summary>
 <!-- SPACE -->
 <br>
 Opis
@@ -379,4 +375,13 @@ Opis
 
 <!-- SPACE -->
 <div style="margin-top: 10px;"></div>
+
+
+
+
+<details>
+  <summary>PROJEKT 1: Simple Rain (2023 – 2026)</summary>
+  <br>
+  Tutaj opis projektu.
+</details>
 
