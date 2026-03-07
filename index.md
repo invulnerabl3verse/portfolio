@@ -1,21 +1,32 @@
+
 <!-- NAGLOWEK Z DUZA CZCIONKA -->
+
 <div style="text-align: center; font-size: 28px;">
+
   PORTFOLIO
+
 </div>
-<!-- NAGLOWEK END -->
+
+<details>
+  <summary><b>_kliknij, aby rozwinąć projekt_:</b></summary>
+
+  Zawiera opis projektu wraz z linkiem do dokumentacji 
+  
+</details>
+
+
 
 ---
+
+<!-- NAGLOWEK END -->
 
 <!-- PRAWA I LEWA INTELIGHT -->
 <div style="display: flex; justify-content: space-between;">
   <div>
 <!-- LEWA STR - NAZWA FIRMY A-->
     Intelight Sp.z o .o
-	  
 	Stanowisko: Inżynier Elektronik
-	
 	Dział: RnD
-
 
   </div>
   <div>
@@ -32,25 +43,65 @@
   Projekty w których uczestniczyłem
 </div>
 
-- PROJEKT 1: CB (Central Battery)
+<!-- PROJEKT 1: Central Battery-->
 
-	Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. [wiecej informacji tutaj](https://www.example.com)
+<details>
+  <summary><b>PROJEKT 1: Central Battery (_kliknij, aby rozwinąć_)</b></summary>
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
 
-- PROJEKT 2: DALI (Digital Addressable Lighting Interface)
-
-	Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. [wiecej informacji tutaj](https://www.example.com)
-
--  PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)
-
-	Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
+Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
 
 [wiecej informacji tutaj](https://www.example.com)
+
+</details>
+<!-- PROJEKT 1: Central Battery END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+
+<!-- PROJEKT 2: DALI (Digital Addressable Lighting Interface)-->
+
+<details>
+  <summary><b>PROJEKT 2: DALI (Digital Addressable Lighting Interface)</b></summary>
+<!-- SPACE -->
+<br>
+Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
+
+[wiecej informacji tutaj](https://www.example.com)
+
+</details>
+<!-- PROJEKT 2: DALI (Digital Addressable Lighting Interface) END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+<!-- PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)-->
+
+<details>
+  <summary><b>PROJEKT 3: WELLS (Wireless Emergency LED Lighting System)</b></summary>
+<!-- SPACE -->
+<br>
+Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
+
+[wiecej informacji tutaj](https://www.example.com)
+
+</details>
+<!-- PROJEKT 3: WELLS (Wireless Emergency LED Lighting System) END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
 
 
 
 ---
 
+
 <!-- PRAWA I LEWA ESCAPE ROOM -->
+
+
 <div style="display: flex; justify-content: space-between;">
   <div>
 <!-- LEWA STR - NAZWA FIRMY B -->
@@ -66,17 +117,31 @@
 </div>
 <!-- PRAWA I LEWA END -->
 
-<!-- OPIS PROJEKTOW ESCAPE ROOM -->
-- PROJEKT 1: Sound Hanger
+<!-- PROJEKT 1: Sound Hanger-->
 
+<details>
+  <summary><b>PROJEKT 1: Sound Hanger</b></summary>
+<!-- SPACE -->
+<br>
 **Wprowadzenie:** Element zagadki w Motelu California. Aby otworzyć ukryte drzwi należy przytrzymać wieszaki w rytm melodi granej w tle.
 		
 **Działanie:** Obwód elektryczny z dzielnikiem napięcia podłączony do handlera. Na każdym wieszaku znajduje się micro switch generujący inny dźwiek po naciśnieciu wieszaka.
 
 [wiecej informacji tutaj](https://www.example.com)
 
-- PROJEKT 2: Bionic Book Hold
+</details>
+<!-- PROJEKT 1: Sound Hanger END-->
 
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+
+<!-- PROJEKT 2: Bionic Book Hold-->
+
+<details>
+  <summary><b>PROJEKT 2: Bionic Book Hold</b></summary>
+<!-- SPACE -->
+<br>
 **Wprowadzenie:** Element zagadki w Księga Zła. Aby odblokować dostęp do księgi należy w poprawnej kolejności ułożyć rzeczy znajdujące się na regale.
 		Mechaniczna dłoń służy jako statyw blokując dostęp do księgi. 
 		
@@ -84,15 +149,37 @@
 
 [wiecej informacji tutaj](https://www.example.com)
 
-- PROJEKT 3: Laser Emitter and Receiver
-	
+</details>
+<!-- PPROJEKT 2: Bionic Book Hold END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+<!-- PROJEKT 3: Laser Emitter and Receiver -->
+
+<details>
+  <summary><b>PROJEKT 3: Laser Emitter and Receiver</b></summary>
+<!-- SPACE -->
+<br>
 **Wprowadzenie:** Aby otworzyć drzwi wiązka światła laserowego musi trafić odbiorniki zamaskowane na ścianie. Ogniwa fotowoltaiczne pokryte są farbą UV jako podpowiedz.
 		
 **Działanie:** Model 3d futurystycznego pistoletu z diodą laserową, układem czasowego opóźnienia symulującego ładowanie, generator wysokiego napięcia jako interpretacja ładowania oraz lampką UV ułatwiająca znalezienie ogniw pokrytych farbą UV.	
 
 [wiecej informacji tutaj](https://www.example.com)
 
+</details>
+<!-- PROJEKT 3: Laser Emitter and Receiver END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+
+
+
 ---
+
+
+
 
 <!-- PRAWA I LEWA PROJEKTY WLASNE -->
 <div style="display: flex; justify-content: space-between;">
@@ -115,8 +202,12 @@
   Projekty Elektroniczne
 </div>
 
-- PROJEKT 1: Simple Rain
+<!-- PROJEKT 1: Simple Rain -->
 
+<details>
+  <summary><b>PROJEKT 1: Simple Rain</b></summary>
+<!-- SPACE -->
+<br>
 Automatyczny system nawadniania roślin w mieszkaniu. Sterowany przez telefon z aplikacją chat bota po WiFi. Wyposażony w trzy tryby pracy:
 		
 		Tryb 1 - manualne jedno razowe podlanie rośliny. 
@@ -131,25 +222,81 @@ Opis zadań wykonywanych w ramach tego projektu w poprzedniej firmie.
 
 [link do canva z prezentacja do tego](https://www.example.com)
 
-- PROJEKT 2: Portable Sorlering Station
+</details>
+<!-- PROJEKT 1: Simple Rain END-->
 
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+
+<!-- PROJEKT 2: Portable Sorlering Station-->
+
+<details>
+  <summary><b>PROJEKT 2: Portable Sorlering Station</b></summary>
+<!-- SPACE -->
+<br>
 Przenośna stacja lutownicza zasilana wymiennymi bateriami z elektronarzędzi umożliwiająca lutowanie w trudno dostępnych miejscach z dala od źródeł zasilania.
 		Kolejne wyzwanie zawodowe i opis Twojego wkładu. 
 		
 [link do canva z prezentacja do tego](https://www.example.com)
 
-- PROJEKT 3: Hand Crank Generator
-	
+</details>
+<!-- PROJEKT 2: Portable Sorlering Station END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+<!-- PROJEKT 3: Hand Crank Generator-->
+
+<details>
+  <summary><b>PROJEKT 3: Hand Crank Generator</b></summary>
+<!-- SPACE -->
+<br>
 Zamienia energie mechaniczna w energie elektryczna za pomocą silnika krokowego oraz superkondensatorów ... dopisz wiecej potem
+		
+[link do canva z prezentacja do tego](https://www.example.com)
 
-- PROJEKT 4: LoRa komunikacja - off-grid
+</details>
+<!-- PROJEKT 3: Hand Crank Generator END-->
 
-opis
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
 
 
-- PROJEKT 4: WiFi Hallow - video streaming z apk ATAK - komunikacja bez infrastruktury
-	
-opis
+<!-- PROJEKT 4: LoRa komunikacja - off-grid-->
+
+<details>
+  <summary><b>PROJEKT 4: LoRa komunikacja - off-grid</b></summary>
+<!-- SPACE -->
+<br>
+Opis
+		
+[link do canva z prezentacja do tego](https://www.example.com)
+
+</details>
+<!-- PROJEKT 4: LoRa komunikacja - off-grid END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
+
+
+<!-- PROJEKT 4: WiFi Hallow - video streaming z apk ATAK - komunikacja bez infrastruktury -->
+
+<details>
+  <summary><b>PROJEKT 5: WiFi Hallow - video streaming z apk ATAK - komunikacja bez infrastruktury</b></summary>
+<!-- SPACE -->
+<br>
+Opis
+		
+[link do canva z prezentacja do tego](https://www.example.com)
+
+</details>
+<!-- PROJEKT 4: WiFi Hallow - video streaming z apk ATAK - komunikacja bez infrastrukturyEND-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
 
 ---
 
@@ -158,26 +305,69 @@ opis
   Projekty Elektryczne
 </div>
 
-- PROJEKT 1: Domek letniskowy off-grid
+<!-- PROJEKT 1: Domek letniskowy off-grid -->
 
-	opis
-
+<details>
+  <summary><b>PROJEKT 1: Domek letniskowy off-grid</b></summary>
+<!-- SPACE -->
+<br>
+Opis
+		
 [link do canva z prezentacja do tego](https://www.example.com)
 
-- PROJEKT 2: Mieszkanie w Bloku
+</details>
+<!-- PROJEKT 1: Domek letniskowy off-grid END-->
 
-	opis
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
 
+
+<!-- PROJEKT 2: Mieszkanie w Bloku -->
+
+<details>
+  <summary><b>PROJEKT 2: Mieszkanie w Bloku</b></summary>
+<!-- SPACE -->
+<br>
+Opis
+		
 [link do canva z prezentacja do tego](https://www.example.com)
 
-- PROJEKT 3: Dom z instalacja off-grid
+</details>
+<!-- PROJEKT 2: Mieszkanie w Bloku END-->
 
-opis
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
 
+<!-- PROJEKT 3: Dom z instalacja off-grid -->
+
+<details>
+  <summary><b>PROJEKT 3: Dom z instalacja off-grid</b></summary>
+<!-- SPACE -->
+<br>
+Opis
+		
 [link do canva z prezentacja do tego](https://www.example.com)
 
-- PROJEKT 4: Tear
+</details>
+<!-- PROJEKT 3: Dom z instalacja off-grid END-->
 
-opis
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
 
+
+<!-- PROJEKT 4: Tear -->
+
+<details>
+  <summary><b>PROJEKT 4: Tear</b></summary>
+<!-- SPACE -->
+<br>
+Opis
+		
 [link do canva z prezentacja do tego](https://www.example.com)
+
+</details>
+<!-- PROJEKT 4: Tear END-->
+
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+
