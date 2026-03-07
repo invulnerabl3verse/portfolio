@@ -15,7 +15,9 @@
   <div>
 <!-- LEWA STR - NAZWA FIRMY A-->
     Intelight Sp.z o .o
+	  
 	Stanowisko: Inżynier Elektronik
+	
 	Dział: RnD
 
 
