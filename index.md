@@ -79,7 +79,7 @@ NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH
 <!-- PROJEKT 1: Central Battery-->
 
 <details>
-  <summary>PROJEKT 1: Central Battery (_kliknij, aby rozwinąć_)</summary>
+  <summary>PROJEKT 1: CB (Central Battery)</summary>
 <!-- SPACE -->
 <div style="margin-top: 10px;"></div>
 
@@ -176,7 +176,7 @@ NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH
 -->
 
 <div style="text-align: center;">
-  **Projekty w których uczestniczyłem**
+  <b>Projekty w których uczestniczyłem</b>
 </div>
 
 <!-- PROJEKT 1: Central Battery-->
@@ -259,9 +259,9 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
   <summary>PROJEKT 1: Sound Hanger</summary>
 <!-- SPACE -->
 <br>
-**Wprowadzenie:** Element zagadki w Motelu California. Aby otworzyć ukryte drzwi należy przytrzymać wieszaki w rytm melodi granej w tle.
+<b>Wprowadzenie:</b> Element zagadki w Motelu California. Aby otworzyć ukryte drzwi należy przytrzymać wieszaki w rytm melodi granej w tle.
 		
-**Działanie:** Obwód elektryczny z dzielnikiem napięcia podłączony do handlera. Na każdym wieszaku znajduje się micro switch generujący inny dźwiek po naciśnieciu wieszaka.
+<b>Działanie:</b> Obwód elektryczny z dzielnikiem napięcia podłączony do handlera. Na każdym wieszaku znajduje się micro switch generujący inny dźwiek po naciśnieciu wieszaka.
 
 <a href="https://example.com" target="_blank">link</a> 
 
@@ -278,10 +278,10 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
   <summary>PROJEKT 2: Bionic Book Hold</summary>
 <!-- SPACE -->
 <br>
-**Wprowadzenie:** Element zagadki w Księga Zła. Aby odblokować dostęp do księgi należy w poprawnej kolejności ułożyć rzeczy znajdujące się na regale.
+<b>Wprowadzenie:</b> Element zagadki w Księga Zła. Aby odblokować dostęp do księgi należy w poprawnej kolejności ułożyć rzeczy znajdujące się na regale.
 		Mechaniczna dłoń służy jako statyw blokując dostęp do księgi. 
 		
-**Działanie:** Mechanizm blokujący oprarty na elektrozaczepie blokady. Wydrukowana 3d dłoń wraz ze ścięgna jest zaciśnięta pod odpowiednim kontem na elektrozaczepie, powracając do pozycji początkowej po zwolnieniu mechanizmu.
+<b>Działanie:</b> Mechanizm blokujący oprarty na elektrozaczepie blokady. Wydrukowana 3d dłoń wraz ze ścięgna jest zaciśnięta pod odpowiednim kontem na elektrozaczepie, powracając do pozycji początkowej po zwolnieniu mechanizmu.
 
 <a href="https://example.com" target="_blank">link</a> 
 
@@ -297,9 +297,9 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
   <summary>PROJEKT 3: Laser Emitter and Receiver</summary>
 <!-- SPACE -->
 <br>
-**Wprowadzenie:** Aby otworzyć drzwi wiązka światła laserowego musi trafić odbiorniki zamaskowane na ścianie. Ogniwa fotowoltaiczne pokryte są farbą UV jako podpowiedz.
+<b>Wprowadzenie:</b>b> Aby otworzyć drzwi wiązka światła laserowego musi trafić odbiorniki zamaskowane na ścianie. Ogniwa fotowoltaiczne pokryte są farbą UV jako podpowiedz.
 		
-**Działanie:** Model 3d futurystycznego pistoletu z diodą laserową, układem czasowego opóźnienia symulującego ładowanie, generator wysokiego napięcia jako interpretacja ładowania oraz lampką UV ułatwiająca znalezienie ogniw pokrytych farbą UV.	
+<b>Działanie:</b> Model 3d futurystycznego pistoletu z diodą laserową, układem czasowego opóźnienia symulującego ładowanie, generator wysokiego napięcia jako interpretacja ładowania oraz lampką UV ułatwiająca znalezienie ogniw pokrytych farbą UV.	
 
 <a href="https://example.com" target="_blank">link</a> 
 
@@ -335,7 +335,7 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 
 <!-- NAGLOWEK PROJEKTY ELEKTRONICZNE -->
 <div style="text-align: center;">
-  Projekty Elektroniczne
+  <b>Projekty Elektroniczne</b>
 </div>
 
 <!-- PROJEKT 1: Simple Rain -->
@@ -438,7 +438,7 @@ Opis
 
 <!-- NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH -->
 <div style="text-align: center;">
-  **Projekty Elektryczne**
+  <b>Projekty Elektryczne</b>
 </div>
 
 <!-- PROJEKT 1: Domek letniskowy off-grid -->
