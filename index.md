@@ -10,6 +10,23 @@
 						<!-- NAGLOWEK END -->
 
 
+
+
+<details>
+  <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
+  <p>
+    Możesz odwiedzić ten 
+    <a href="https://example.com" target="_blank">link do projektu</a> 
+  </p>
+</details>
+
+
+
+
+
+
+
+
 					<!-- KLIKNIJ ABY ROZWINAC -->
 <details>
   <summary><b>_kliknij, aby rozwinąć projekt_:</b></summary>
