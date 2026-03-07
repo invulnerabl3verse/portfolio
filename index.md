@@ -1,14 +1,10 @@
 <!-- NAGLOWEK Z DUZA CZCIONKA -->
-
 <div style="text-align: center; font-size: 28px;">
-	
   PORTFOLIO
-  
 </div>
+<!-- NAGLOWEK END -->
 
 ---
-
-<!-- NAGLOWEK END -->
 
 <!-- PRAWA I LEWA INTELIGHT -->
 <div style="display: flex; justify-content: space-between;">
