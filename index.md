@@ -13,16 +13,6 @@ NAGLOWEK END
 -->
 
 
-<details>
-  <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
-  <p>
-    Możesz odwiedzić ten 
-    <a href="https://example.com" target="_blank">link do projektu</a> 
-  </p>
-</details>
-
-
-
 
 <!-- 
 KLIKNIJ ABY ROZWINAC 
@@ -30,9 +20,10 @@ KLIKNIJ ABY ROZWINAC
 
 
 <details>
-  <summary><b>_kliknij, aby rozwinąć projekt_:</b></summary>
+  <summary>kliknij, aby rozwinąć projekt:</summary>
 
   znajduje sie tu opis projektu wraz z linkiem do dokumentacji 
+<a href="https://example.com" target="_blank">link</a> 
   
 </details>
 
@@ -126,16 +117,6 @@ NAGLOWEK END
 -->
 
 
-<details>
-  <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
-  <p>
-    Możesz odwiedzić ten 
-    <a href="https://example.com" target="_blank">link do projektu</a> 
-  </p>
-</details>
-
-
-
 
 <!-- 
 KLIKNIJ ABY ROZWINAC 
@@ -143,7 +124,7 @@ KLIKNIJ ABY ROZWINAC
 
 
 <details>
-  <summary><b>_kliknij, aby rozwinąć projekt_:</b></summary>
+  <summary>_kliknij, aby rozwinąć projekt_:</summary>
 
   znajduje sie tu opis projektu wraz z linkiem do dokumentacji 
   
@@ -195,7 +176,7 @@ NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH
 -->
 
 <div style="text-align: center;">
-  Projekty w których uczestniczyłem
+  **Projekty w których uczestniczyłem**
 </div>
 
 <!-- PROJEKT 1: Central Battery-->
@@ -282,7 +263,7 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 		
 **Działanie:** Obwód elektryczny z dzielnikiem napięcia podłączony do handlera. Na każdym wieszaku znajduje się micro switch generujący inny dźwiek po naciśnieciu wieszaka.
 
-[wiecej informacji tutaj](https://www.example.com)
+<a href="https://example.com" target="_blank">link</a> 
 
 </details>
 <!-- PROJEKT 1: Sound Hanger END-->
@@ -302,7 +283,7 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 		
 **Działanie:** Mechanizm blokujący oprarty na elektrozaczepie blokady. Wydrukowana 3d dłoń wraz ze ścięgna jest zaciśnięta pod odpowiednim kontem na elektrozaczepie, powracając do pozycji początkowej po zwolnieniu mechanizmu.
 
-[wiecej informacji tutaj](https://www.example.com)
+<a href="https://example.com" target="_blank">link</a> 
 
 </details>
 <!-- PPROJEKT 2: Bionic Book Hold END-->
@@ -457,7 +438,7 @@ Opis
 
 <!-- NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH -->
 <div style="text-align: center;">
-  Projekty Elektryczne
+  **Projekty Elektryczne**
 </div>
 
 <!-- PROJEKT 1: Domek letniskowy off-grid -->
@@ -665,7 +646,7 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 
 <!-- NAGLOWEK PROJEKTY ELEKTRONICZNE -->
 <div style="text-align: center;">
-  Projekty Elektroniczne
+  **Projekty Elektroniczne**
 </div>
 
 <!-- PROJEKT 1: Simple Rain -->
@@ -720,7 +701,7 @@ Przenośna stacja lutownicza zasilana wymiennymi bateriami z elektronarzędzi um
 <br>
 Zamienia energie mechaniczna w energie elektryczna za pomocą silnika krokowego oraz superkondensatorów ... dopisz wiecej potem
 		
-[link do canva z prezentacja do tego](https://www.example.com)
+<a href="https://example.com" target="_blank">link</a> 
 
 </details>
 <!-- PROJEKT 3: Hand Crank Generator END-->
@@ -768,7 +749,7 @@ Opis
 
 <!-- NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH -->
 <div style="text-align: center;">
-  Projekty Elektryczne
+  **Projekty Elektryczne**
 </div>
 
 <!-- PROJEKT 1: Domek letniskowy off-grid -->
