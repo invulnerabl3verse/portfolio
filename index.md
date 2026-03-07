@@ -102,35 +102,9 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <br>
 Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
 
-<!--
- NAGLOWEK Z DUZA CZCIONKA 
--->
-
-<div style="text-align: center; font-size: 28px;">
-
-  Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
-
 <a href="https://example.com" target="_blank">link</a> 
 
 </div>
-
-<!-- 
-NAGLOWEK END 
--->
-
-
-
-<!-- 
-KLIKNIJ ABY ROZWINAC 
--->
-
-
-<details>
-  <summary>_kliknij, aby rozwinąć projekt_:</summary>
-
-  znajduje sie tu opis projektu wraz z linkiem do dokumentacji 
-  
-</details>
 
 
 ---
