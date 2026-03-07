@@ -15,6 +15,13 @@
 </details>
 
 
+<details>
+  <summary>PROJEKT 1: Simple Rain</summary>
+  <br>
+  Opis projektu: <a href="https://github.com">KLIKNIJ TUTAJ</a>
+</details>
+
+
 
 ---
 
