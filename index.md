@@ -1,5 +1,6 @@
-
-					<!-- NAGLOWEK Z DUZA CZCIONKA -->
+<!--
+ NAGLOWEK Z DUZA CZCIONKA 
+-->
 
 <div style="text-align: center; font-size: 28px;">
 
@@ -7,9 +8,9 @@
 
 </div>
 
-						<!-- NAGLOWEK END -->
-
-
+<!-- 
+NAGLOWEK END 
+-->
 
 
 <details>
@@ -23,11 +24,11 @@
 
 
 
+<!-- 
+KLIKNIJ ABY ROZWINAC 
+-->
 
 
-
-
-					<!-- KLIKNIJ ABY ROZWINAC -->
 <details>
   <summary><b>_kliknij, aby rozwinąć projekt_:</b></summary>
 
@@ -41,26 +42,45 @@
 
 
 
+<!-- 
+PRAWA I LEWA INTELIGHT 
+-->
 
-					<!-- PRAWA I LEWA INTELIGHT -->
+
 <div style="display: flex; justify-content: space-between;">
   <div>
-					<!-- LEWA STR - NAZWA FIRMY A-->
+
+<!-- 
+LEWA STR - NAZWA FIRMY A
+-->
+
     Intelight Sp.z o .o
 	Stanowisko: Inżynier Elektronik
 	Dział: RnD
 
   </div>
   <div>
-						<!--PRAWA --KONIEC -->
 
-<!--PRAWA -- OD KIEDY DO KIEDY-->
+<!--
+PRAWA --KONIEC 
+-->
+
+<!--
+PRAWA -- OD KIEDY DO KIEDY
+-->
+
     06.2024 - Obecnie
   </div>
 </div>
-<!-- PRAWA I LEWA END -->
 
-<!-- NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH -->
+<!--
+ PRAWA I LEWA END
+ -->
+
+<!-- 
+NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH 
+-->
+
 <div style="text-align: center;">
   Projekty w których uczestniczyłem
 </div>
@@ -68,13 +88,13 @@
 <!-- PROJEKT 1: Central Battery-->
 
 <details>
-  <summary><b>PROJEKT 1: Central Battery (_kliknij, aby rozwinąć_)</b></summary>
+  <summary>PROJEKT 1: Central Battery (_kliknij, aby rozwinąć_)</summary>
 <!-- SPACE -->
 <div style="margin-top: 10px;"></div>
 
 Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
 
-[wiecej informacji tutaj](https://www.example.com)
+<a href="https://example.com" target="_blank">link</a> 
 
 </details>
 <!-- PROJEKT 1: Central Battery END-->
