@@ -25,7 +25,7 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
 
-    Oświetlenie Awaryjne
+    Branża: Oświetlenie Awaryjne
 
   </div>
   <div>
@@ -67,7 +67,10 @@ NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH
 <div style="text-align: center;">
   <b>Projekty w których uczestniczyłem</b>
 </div>
-
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
+<!-- SPACE -->
+<div style="margin-top: 10px;"></div>
 <!-- PROJEKT 1: Central Battery-->
 
 <details>
@@ -121,7 +124,6 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 ---
 
 
-<!-- PRAWA I LEWA ESCAPE ROOM -->
 
 
 <div style="display: flex; justify-content: space-between;">
@@ -131,12 +133,22 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 	Stanowisko: Technik Elektronik
   </div>
   <div>
-<!--PRAWA --KONIEC -->
-
-<!--PRAWA -- OD KIEDY DO KIEDY-->
-    03.2023 - 08.2023 - przerob to na rok
+    03.2023 - 08.2023
   </div>
 </div>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+<!-- LEWA STR - NAZWA FIRMY B -->
+
+	Stanowisko: Technik Elektronikffffff
+
+  </div>
+  <div>
+    03.2023 - 08.2023
+  </div>
+</div>
+
 <!-- PRAWA I LEWA END -->
 
 <!-- PROJEKT 1: Sound Hanger-->
@@ -144,10 +156,11 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <details>
   <summary>PROJEKT 1: Sound Hanger</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
+
 <b>Wprowadzenie:</b> Element zagadki w Motelu California. Aby otworzyć ukryte drzwi należy przytrzymać wieszaki w rytm melodi granej w tle.
 		
-**Działanie:** Obwód elektryczny z dzielnikiem napięcia podłączony do handlera. Na każdym wieszaku znajduje się micro switch generujący inny dźwiek po naciśnieciu wieszaka.
+<b>Działanie:</b> Obwód elektryczny z dzielnikiem napięcia podłączony do handlera. Na każdym wieszaku znajduje się micro switch generujący inny dźwiek po naciśnieciu wieszaka.
 
 <a href="https://example.com" target="_blank">link</a> 
 
@@ -163,7 +176,8 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <details>
   <summary>PROJEKT 2: Bionic Book Hold</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
+
 **Wprowadzenie:** Element zagadki w Księga Zła. Aby odblokować dostęp do księgi należy w poprawnej kolejności ułożyć rzeczy znajdujące się na regale.
 		Mechaniczna dłoń służy jako statyw blokując dostęp do księgi. 
 		
@@ -217,6 +231,20 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
     2023 - 2026
   </div>
 </div>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+<!-- LEWA STR - PROJEKTY WLASNE -->
+    Projekty własne
+	Selected works
+  </div>
+  <div>
+<!--PRAWA --KONIEC -->
+
+<!--PRAWA -- OD KIEDY DO KIEDY-->
+    2023 - 2026
+  </div>
+</div>
 <!-- PRAWA I LEWA PROJKETY WLASNE END -->
 
 <!-- NAGLOWEK PROJEKTY ELEKTRONICZNE -->
@@ -229,7 +257,7 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <details>
   <summary>PROJEKT 1: Simple Rain</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
 Automatyczny system nawadniania roślin w mieszkaniu. Sterowany przez telefon z aplikacją chat bota po WiFi. Wyposażony w trzy tryby pracy:
 		
 		Tryb 1 - manualne jedno razowe podlanie rośliny. 
