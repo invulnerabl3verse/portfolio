@@ -25,29 +25,40 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
 
-<!-- LEWA STR - NAZWA FIRMY A-->
-    Intelight Sp.z o .o
-	Stanowisko: Inżynier Elektronik
-	Dział: RnD
+    Oświetlenie Awaryjne
 
   </div>
   <div>
-
-<!--
-PRAWA --KONIEC 
--->
-
-<!--
-PRAWA -- OD KIEDY DO KIEDY
--->
 
     06.2024 - Obecnie
   </div>
 </div>
 
-<!--
- PRAWA I LEWA END
- -->
+
+<!-- PRAWA I LEWA INTELIGHT -->
+<div style="display: flex; justify-content: space-between;">
+  <div>
+  
+    Stanowisko: Inżynier elektronik
+
+  </div>
+  <div>
+
+    
+  </div>
+</div>
+<!-- PRAWA I LEWA INTELIGHT -->
+<div style="display: flex; justify-content: space-between;">
+  <div>
+  
+    Dział: RnD
+
+  </div>
+  <div>
+
+    
+  </div>
+</div>
 
 <!-- 
 NAGLOWEK PROJEKTY INSTALACJI ELEKTRYCZNYCH 
@@ -80,7 +91,8 @@ Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie
 <details>
   <summary>PROJEKT 2: DALI (Digital Addressable Lighting Interface)</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
+
 Opis tego, co robiłeś w tym projekcie. Twoje zadania, wykorzystane technologie oraz osiągnięty cel. 
 
 <a href="https://example.com" target="_blank">link</a> 
@@ -388,6 +400,8 @@ Opis
   <summary>PROJEKT 1: Simple Rain (2023 – 2026)</summary>
   <br>
   Tutaj opis projektu.
+
+
 </details>
 
 
@@ -639,7 +653,7 @@ Opis
 <details>
   <summary>PROJEKT 1: Domek letniskowy off-grid</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
 Opis
 		
 <a href="https://example.com" target="_blank">link</a> 
@@ -656,7 +670,7 @@ Opis
 <details>
   <summary>PROJEKT 2: Mieszkanie w Bloku</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
 Opis
 		
 <a href="https://example.com" target="_blank">link</a> 
@@ -672,7 +686,7 @@ Opis
 <details>
   <summary>ROJEKT 3: Dom z instalacja off-grid</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
 Opis
 		
 <a href="https://example.com" target="_blank">link</a> 
@@ -689,7 +703,7 @@ Opis
 <details>
   <summary>PROJEKT 4: Tear</summary>
 <!-- SPACE -->
-<br>
+<div style="margin-top: 10px;"></div>
 Opis
 		
 <a href="https://example.com" target="_blank">link</a> 
